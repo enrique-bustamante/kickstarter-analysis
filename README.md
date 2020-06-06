@@ -1,7 +1,7 @@
 # kickstarter-analysis
 Analysis performed on Kickstarter data as part of the Ut Data Analyst Boot Camp.
 
-###Figures
+### Figures
 
 ![Subcategory Comparison](Desktop/UT Bootcamp Folder/Crowdfunding Analysis/Subcategory Comparison.png)
 
@@ -10,7 +10,7 @@ Analysis performed on Kickstarter data as part of the Ut Data Analyst Boot Camp.
 ![Goal vs Pledged](Desktop/UT Bootcamp Folder/Crowdfunding Analysis/Goal vs Pledged.png)
 
 
-###Recommendation
+### Recommendation
 
 The initial goal of $20k is very high, especially when looking at successful versus failed campaigns. Failed campaigns were asking for an average of $10k per failed campaign as opposed to the successful campaigns which averaged $5k. 
 
