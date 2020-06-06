@@ -5,7 +5,7 @@ Analysis performed on Kickstarter data as part of the Ut Data Analyst Boot Camp.
 
 ![Subcategory Comparison](Subcategory%20Comparison.png)
 
-![Outcome by Launch Date](Desktop/UT Bootcamp Folder/Crowdfunding Analysis/Outcome by Launch Date.png)
+![Outcome by Launch Date](Outcome%20by%20Launch%20Date.png)
 
 ![Goal vs Pledged](Desktop/UT Bootcamp Folder/Crowdfunding Analysis/Goal vs Pledged.png)
 
