@@ -7,7 +7,7 @@ Analysis performed on Kickstarter data as part of the Ut Data Analyst Boot Camp.
 
 ![Outcome by Launch Date](Outcome%20by%20Launch%20Date.png)
 
-![Outcome by goal])outcomeByGoal.png
+![Outcome by goal](outcomeByGoal.png)
 
 ![Goal vs Pledged](Goal%20vs%20Pledged.png)
 
